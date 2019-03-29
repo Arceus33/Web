@@ -1,0 +1,27 @@
+.menu{
+	background-color : #dc7983;
+	color : #000000;
+}
+
+
+.contenu{
+	background-color : #dc7983;
+	color : #ffffff;
+	text-align : right;
+}
+
+.barre{
+	white-space: nowrap;
+	background-color : #ca506e;
+	text-align : center;
+	font-family: 'Merriweather', serif;
+	font-size : 50;
+}
+
+.pres{
+	text-align : center;
+}
+
+.active{
+	font-weight : bold;
+}
